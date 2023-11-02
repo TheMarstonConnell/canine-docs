@@ -6,8 +6,12 @@ sidebar_position: 2
 
 ## Self Custodial
 
-Coming Soon
+Visit the GitHub: https://github.com/JackalLabs/jackalapi
 
-## Jackal Custodial
+// TODO: Add docs for self-custodial api since the update
 
-Coming Soon
+
+## Jackal Labs Custodial
+
+The Stratus API is now live! Check it out: https://www.stratuscloud.xyz
+
